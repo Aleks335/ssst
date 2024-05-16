@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"xpp/pkg/strx"
+	"github.com/Aleks335/ssst/pkg/strx"
 )
 
 func main() {
